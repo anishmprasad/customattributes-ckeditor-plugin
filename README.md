@@ -1,1 +1,3 @@
 # insert-ckeditor-plugin
+
+# LICENCE
