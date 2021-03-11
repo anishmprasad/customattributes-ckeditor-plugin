@@ -1,4 +1,4 @@
-# insert-ckeditor-plugin
+# customattributes-ckeditor-plugin
 
 # LICENCE
 
