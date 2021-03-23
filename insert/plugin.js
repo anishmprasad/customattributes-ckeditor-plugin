@@ -65,7 +65,7 @@ CKEDITOR.config.strinsert_button_title = "Insert content";
  */
 CKEDITOR.config.strinsert_button_voice = "Insert content";
 
-CKEDITOR.plugins.add("insert", {
+CKEDITOR.plugins.add("customattributes", {
   requires: ["richcombo"],
   init: function (editor) {
     var config = editor.config;
