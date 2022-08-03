@@ -19,7 +19,7 @@
 // })()
 
 /**
- * @license Copyright © 2013 Anish M Prasad<anishmprasad@gmail.com>
+ * @license Copyright © 2022 Anish M Prasad<anishmprasad@gmail.com>
  * This is open source, can modify it as you wish.
  *
  * Anish M Prasad
